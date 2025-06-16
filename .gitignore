@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env
+venv/
+.idea/
+.vscode/
+backgrounds/*.jpg
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
