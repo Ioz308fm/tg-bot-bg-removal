@@ -25,9 +25,9 @@
 
 ```bash
 git clone https://github.com/Ioz308fm/tg-bot-bg-removal.git
-cd background-remover-bot
-python -m venv venv
-source venv/bin/activate  # для Windows: venv\Scripts\activate
+cd tg-bot-bg-removal
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
@@ -40,7 +40,7 @@ TOKEN="ваш токен"
 ## Запуск
 
 ```bash
-python bg_removal_bot.py
+python3 bg_removal_bot.py
 ```
 
 ## Описание работы бота
