@@ -10,16 +10,16 @@
 
 ## Требования
 
-Python 3.10+
-pip
+* Python 3.10+
+* pip
 
 ## Используемые библиотеки:
 
-python-telegram-bot
-rembg
-pillow (PIL)
-nest_asyncio
-python-dotenv
+* python-telegram-bot
+* rembg
+* pillow (PIL)
+* nest_asyncio
+* python-dotenv
 
 ## Установка
 
